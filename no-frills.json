@@ -1,0 +1,290 @@
+[
+    {
+        "name": "Bananas, Bunch",
+        "price": "1.50",
+        "unit-price": "1.30",
+        "quantity": " 1kg"
+    },
+    {
+        "name": "English Cucumber",
+        "price": "2.49",
+        "unit-price": "0.59",
+        "quantity": " 1lb"
+    },
+    {
+        "name": "Green Onion",
+        "price": "1.79",
+        "unit-price": "2.49",
+        "quantity": " 1ea"
+    },
+    {
+        "name": "Celery Stalks",
+        "price": "4.49",
+        "unit-price": "1.79",
+        "quantity": " 1ea"
+    },
+    {
+        "name": "Lettuce Iceberg",
+        "price": "3.49",
+        "unit-price": "4.49",
+        "quantity": " 1ea"
+    },
+    {
+        "name": "Green Seedless Grapes",
+        "price": "8.98",
+        "unit-price": "3.49",
+        "quantity": " 1ea"
+    },
+    {
+        "name": "Yellow Onions",
+        "price": "2.79",
+        "unit-price": "8.80",
+        "quantity": " 1kg"
+    },
+    {
+        "name": "Raspberries 1/2 pint",
+        "price": "4.99",
+        "unit-price": "3.99",
+        "quantity": " 1lb"
+    },
+    {
+        "name": "Strawberries 1LB",
+        "price": "2.49",
+        "unit-price": "0.21",
+        "quantity": " 100g"
+    },
+    {
+        "name": "Avocados Bag",
+        "price": "3.99",
+        "unit-price": "2.94",
+        "quantity": " 100g"
+    },
+    {
+        "name": "Lemon",
+        "price": "0.99",
+        "unit-price": "0.55",
+        "quantity": " 100g"
+    },
+    {
+        "name": "Tomato On The Vine Red ( 1 Bunch)",
+        "price": "4.68",
+        "unit-price": "0.80",
+        "quantity": " 1ea"
+    },
+    {
+        "name": "Red Peppers",
+        "price": "2.38",
+        "unit-price": "0.99",
+        "quantity": " 1ea"
+    },
+    {
+        "name": "Tomato Beefsteak  Red",
+        "price": "1.77",
+        "unit-price": "6.59",
+        "quantity": " 1kg"
+    },
+    {
+        "name": "Broccoli",
+        "price": "3.99",
+        "unit-price": "2.99",
+        "quantity": " 1lb"
+    },
+    {
+        "name": "Zucchini",
+        "price": "1.16",
+        "unit-price": "9.90",
+        "quantity": " 1kg"
+    },
+    {
+        "name": "Carrots",
+        "price": "2.79",
+        "unit-price": "4.49",
+        "quantity": " 1lb"
+    },
+    {
+        "name": "Sweet Green Peppers",
+        "price": "2.15",
+        "unit-price": "6.59",
+        "quantity": " 1kg"
+    },
+    {
+        "name": "Cilantro",
+        "price": "1.49",
+        "unit-price": "2.99",
+        "quantity": " 1lb"
+    },
+    {
+        "name": "Red Seedless Grapes",
+        "price": "8.71",
+        "unit-price": "3.99",
+        "quantity": " 1ea"
+    },
+    {
+        "name": "Ginger",
+        "price": "0.92",
+        "unit-price": "4.14",
+        "quantity": " 1kg"
+    },
+    {
+        "name": "Roma Tomatoes",
+        "price": "0.79",
+        "unit-price": "1.88",
+        "quantity": " 1lb"
+    },
+    {
+        "name": "Red Onion",
+        "price": "2.03",
+        "unit-price": "0.20",
+        "quantity": " 100g"
+    },
+    {
+        "name": "Blueberries 1/2 pint",
+        "price": "3.99",
+        "unit-price": "7.69",
+        "quantity": " 1kg"
+    },
+    {
+        "name": "Organic Bananas, Bunch",
+        "price": "2.40",
+        "unit-price": "3.49",
+        "quantity": " 1lb"
+    },
+    {
+        "name": "Garlic",
+        "price": "0.88",
+        "unit-price": "1.49",
+        "quantity": " 1ea"
+    },
+    {
+        "name": "Sweet Potato",
+        "price": "2.07",
+        "unit-price": "8.80",
+        "quantity": " 1kg"
+    },
+    {
+        "name": "Sweet Baby Peppers",
+        "price": "4.99",
+        "unit-price": "3.99",
+        "quantity": " 1lb"
+    },
+    {
+        "name": "Limes",
+        "price": "0.79",
+        "unit-price": "4.37",
+        "quantity": " 1kg"
+    },
+    {
+        "name": "Avocado",
+        "price": "1.99",
+        "unit-price": "1.98",
+        "quantity": " 1lb"
+    },
+    {
+        "name": "Blueberries 1 pint",
+        "price": "3.88",
+        "unit-price": "6.59",
+        "quantity": " 1kg"
+    },
+    {
+        "name": "Pineapple",
+        "price": "3.99",
+        "unit-price": "2.99",
+        "quantity": " 1lb"
+    },
+    {
+        "name": "Royal Gala Apples",
+        "price": "1.15",
+        "unit-price": "5.49",
+        "quantity": " 1kg"
+    },
+    {
+        "name": "Cantaloupe",
+        "price": "1.99",
+        "unit-price": "2.49",
+        "quantity": " 1lb"
+    },
+    {
+        "name": "Colossal Garlic",
+        "price": "1.54",
+        "unit-price": "2.35",
+        "quantity": " 100g"
+    },
+    {
+        "name": "Russet Potatoes",
+        "price": "3.88",
+        "unit-price": "2.18",
+        "quantity": " 1kg"
+    },
+    {
+        "name": "Grape Tomatoes",
+        "price": "2.49",
+        "unit-price": "0.99",
+        "quantity": " 1lb"
+    },
+    {
+        "name": "Broccoli Crown",
+        "price": "1.88",
+        "unit-price": "0.29",
+        "quantity": " 1ea"
+    },
+    {
+        "name": "Bartlett Pears",
+        "price": "1.38",
+        "unit-price": "3.28",
+        "quantity": " 1kg"
+    },
+    {
+        "name": "Blackberries 1/2 Pint",
+        "price": "3.99",
+        "unit-price": "1.49",
+        "quantity": " 1lb"
+    },
+    {
+        "name": "Naturally Imperfect Mixed Sweet Peppers 2.5lb Bag",
+        "price": "5.00",
+        "unit-price": "1.25",
+        "quantity": " 1ea"
+    },
+    {
+        "name": "Navel Orange",
+        "price": "1.54",
+        "unit-price": "0.79",
+        "quantity": " 1ea"
+    },
+    {
+        "name": "Mini Carrots",
+        "price": "1.99",
+        "unit-price": "1.99",
+        "quantity": " 1ea"
+    },
+    {
+        "name": "Sweet Onion",
+        "price": "2.53",
+        "unit-price": "1.14",
+        "quantity": " 100g"
+    },
+    {
+        "name": "Unsalted California Pistachios",
+        "price": "9.99",
+        "unit-price": "3.99",
+        "quantity": " 1ea"
+    },
+    {
+        "name": "Salad Kit Chopped Sesame Wonton",
+        "price": "5.99",
+        "unit-price": "5.49",
+        "quantity": " 1kg"
+    },
+    {
+        "name": "Pearl Onion",
+        "price": "2.99",
+        "unit-price": "2.49",
+        "quantity": " 1lb"
+    },
+    {
+        "name": "Apricots",
+        "price": "0.77",
+        "unit-price": "1.99",
+        "quantity": " 1ea"
+    }
+]

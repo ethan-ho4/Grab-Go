@@ -6,7 +6,7 @@ import json
 chrome_options = Options()
 chrome_options.add_argument('--headless')
 driver = webdriver.Chrome(options=chrome_options)
-start_url = 'https://www.loblaws.ca/food/fruits-vegetables/c/28000?navid=flyout-L2-fruits-vegetables'
+start_url = 'https://www.nofrills.ca/food/fruits-vegetables/c/28000?navid=flyout-L2-fruits-vegetables'
 driver.get(start_url)
 import time
 time.sleep(20)
@@ -31,6 +31,5 @@ for name_selector , price_selector , unit_price_selector , quant_selector in zip
     products.append(listing)
 print(len(products))
 
-with open("loblaws.json" , "w") as fout:
+with open("no-frills.json" , "w") as fout:
     json.dump(products , fout , indent=4)
-
