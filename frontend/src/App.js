@@ -3,6 +3,43 @@ import logo from './logo2.jpg'
 import './App.css';
 
 function App() {
+  const testData = [
+    'test1', 'test2', 'test3'
+  ]
+
+  const handleDivClick = (event, value) => {
+    console.log(value);
+    setBigDiv(<div style={{
+    }}>
+      This is a test div
+    </div>)
+
+  }
+
+  const handleClick = (event) => {
+    console.log(textValue);
+    // DO API CALL HERE
+    // fetch
+    // .then((data) => {
+      const tempArray = [];
+      testData.forEach((value) => {
+        tempArray.push(
+        <div key={value} onClick={event => handleDivClick(event, value)}>
+          {value}
+        </div>)
+      })
+      setTestDivs(tempArray);
+    // })
+  }
+
+  const handleChange = (event) => {
+    setTextValue(event.target.value);
+  }
+
+  const [textValue, setTextValue] = useState('Write grocery list here');
+  const [testDivs, setTestDivs] = useState([]);
+  const [bigDiv, setBigDiv] = useState('');
+
   return (
     <div className="App">
       <div>
@@ -19,20 +56,31 @@ function App() {
       <div>     
         
                         <textarea id = "textarea"
+                          value={textValue}
+                          onChange={handleChange}
                           style={{
                           position: "absolute",
                           left: "20px",
                           top: "150px",
                           height: "200px",
                           width: "290px",
-                          resize: "none"
+                          resize: "none",
                           }}> Write grocery list here
                         </textarea>
-                        <button style={{position: "absolute",
+                        <button onClick={handleClick} style={{position: "absolute",
                           left: "255px",
                           top: "360px",
                           height: "30px",
                           width: "60px",}}>Submit</button>
+                          <div style={
+                            {
+                              position: "absolute",
+                              // padding: "200px"
+                            }
+                          }>
+                          </div>
+                          {testDivs}
+                          {bigDiv}
 
                         
       </div>
