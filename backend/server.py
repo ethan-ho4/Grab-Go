@@ -32,11 +32,7 @@ def store_extract(user_list , store_list):
     return available_items
 
 def get_list(user_list):
-
     
-    
-        
-
     return
 
 if __name__ == '__main__':
